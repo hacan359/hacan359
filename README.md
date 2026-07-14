@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**hacan359/hacan359** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![hacan359 — retro arcade screen](assets/screen.svg)
 
-Here are some ideas to get you started:
+[![Tonkatsu Box](assets/btn-tonkatsu.svg)](https://github.com/hacan359/tonkatsu_box)
+[![Co-Op Retro Games](assets/btn-coop.svg)](https://github.com/hacan359/co-op-retro-games)
+[![Tonkatsu Collections](assets/btn-collections.svg)](https://github.com/hacan359/tonkatsu-collections)
+[![Odin Compatibility](assets/btn-odin.svg)](https://github.com/hacan359/odin-compatibility)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![INSERT COIN](assets/lbl-insert-coin.svg)
+[![X (Twitter)](assets/btn-x.svg)](https://x.com/hcan359)
+[![Discord](assets/btn-discord.svg)](https://discord.com/invite/JZVNPF7cS2)
+
+</div>

@@ -1,0 +1,4 @@
+.idea/
+.playwright-cli/
+preview.html
+*.png
